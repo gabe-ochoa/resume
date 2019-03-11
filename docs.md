@@ -9,7 +9,15 @@ resume.md and resume.pdf are the current resume
 
 ## Usage
 
+You'll need chrome and grip (github markdown generation) installed.
+
+
 ```
-pip install -r requirements.txt
-python ./render.py 
+pip install grip
+```
+
+To generate pdf from resume.md:
+
+```
+make
 ```
