@@ -1,6 +1,6 @@
 # suffix is not defined unless generating mutliple resumes a day
 renderDate=$(shell date +%Y-%m-%d)$(suffix)
-mdFile?=resume.md
+mdFile?=Readme.md
 
 .PHONY: render
 
