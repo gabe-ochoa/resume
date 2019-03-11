@@ -5,7 +5,7 @@ mdFile?=Readme.md
 .PHONY: render
 
 render: markdown pdf-chrome
-	mv $(renderDate).pdf archive/resume-$(renderDate).pdf && \
+	mv $(renderDate).pdf archive/resume-$(renderDate)-$(shell md5 -q $(renderDate).pdf | cut -c 25-33).pdf && \
 	rm $(renderDate).html 
 
 markdown:
