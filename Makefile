@@ -8,6 +8,8 @@ render: markdown pdf-chrome
 	mv $(renderDate).pdf archive/resume-$(renderDate)-$(shell md5 -q $(renderDate).pdf | cut -c 25-33).pdf && \
 	rm $(renderDate).html 
 
+preview: markdown
+
 markdown:
 	grip $(mdFile) --user-content --export $(renderDate).html
 
