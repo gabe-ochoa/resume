@@ -1,20 +1,20 @@
 # Gabe Ochoa
+##### 3 Decatur St Apt 3, Brooklyn, NY 11216 | (512) 826-5402 | gabeochoa@gmail.com | gabeochoa.com
 
-3 Decatur St Apt 3, Brooklyn, NY 11216 | (512) 826-5402 | gabeochoa.com | gabeochoa@gmail.com
-
-## Work
-
-### Squarespace | Senior Site Reliability Engineer / Team Lead | New York, NY August 2017 - Present 
+### Squarespace 
+##### Senior Site Reliability Engineer / Team Lead | New York, NY | August 2017 - Present 
 ```
-- Led a team of 7 engineers in launching a new internal cloud platform which replaced the runtime orchestration, metrics, alerting, and CI/CD layers of the Squarespace stack. 
-- Architectued a the migration of over 20+ application and 3000 VMs a container based platform built around Kubernetes.
-- Created, taught, and trained over 100 engineers using a Kubernetes 101 and 102 classes.
+- Led a team of 7 engineers in launching a new internal cloud platform which replaced 
+the runtime orchestration, metrics, alerting, and CI/CD layers of the Squarespace stack
+- Architectued the migration of over 20+ application and 3000 VMs a container based platform built around Kubernetes
+- Created Kubernetes 101 and 102 courses to train 100+ engineers
 - Participated in team and Incident Commander 24/7 on-call rotations
-- Billing rollout, SRE partner program
-- Mitigation of meltdown and spectre + upgrade automation software
+- Infrastructure lead for launch of a new billing system; started SRE Partner program
+- 
 ```
 
-### Wink — Senior Site Reliability Engineer | Flextronics | New York, NY December 2015 - August 2017 
+### Wink
+##### Site Reliability Engineer | Flextronics | New York, NY | December 2015 - August 2017 
 
 ```
   - 1.5 years of running Kubernetes in production with large scale workloads
@@ -26,7 +26,7 @@
   - Developed and championed SRE culture/practices across engineering organization
 ```
 
-### Wink — Systems Engineer | Quirky Inc | New York, NY August 2014 - December 2015 
+##### Systems Engineer | Quirky Inc | New York, NY | August 2014 - December 2015 
 ```
   - Researched developing technologies and served as the subject expert for 
     product integrations including Amazon Echo, Nest, Schlage Locks, etc 
@@ -37,18 +37,17 @@
   - Designed hardware and processes to refurbish 40,000 company products in 1 month
 ```
 
-### Quirky — BlackOps Design Engineer | New York, NY January 2014 - August 2014 
+### Quirky 
+##### BlackOps Design Engineer | New York, NY | January 2014 - August 2014 
 ```
   - Prototyping specialist for CEO’s personal four-member design team
   - As a fast-pace team: we researched, designed, and built against 48 hour deadlines
   - Constructed visual and functional prototypes for Quirky Aros and Wink Relay
 ```
 
-### Frog Design — Design Technologist Intern | Austin, TX May 2013 - August 2013 
-```
-  - Designed interactive Arduino prototypes and supervised product fabrication
-  - Established the Frog Make Lab and designed a custom quadcopter for case study
-```
+### Frog Design 
+##### Design Technologist Intern | Austin, TX May 2013 - August 2013 
+
 ## Skills
 
 ### Software
@@ -61,4 +60,10 @@ CNC/Manual Machining and Prototyping | Addative Manufacturing | Welding | Solder
 
 ## Education
 
-Georgia Institute of Technology — B.S. Mechanical Engineering December 2013 - Specialties: Manufacturing Processes | Machine Design | Prototyping | Product Design
+### Georgia Institute of Technology
+##### B.S. Mechanical Engineering 2013 
+Manufacturing Processes | Machine Design | Prototyping | Product Design
+
+-----
+
+github.com/gabe-ochoa/resume
