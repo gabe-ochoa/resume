@@ -6,11 +6,10 @@
 ```
 - Led a team of 7 engineers in launching a new internal cloud platform which replaced 
 the runtime orchestration, metrics, alerting, and CI/CD layers of the Squarespace stack
-- Architectued the migration of over 20+ application and 3000 VMs a container based platform built around Kubernetes
+- Architectued the migration of over 20+ application and 3000 VMs a container based platform
 - Created Kubernetes 101 and 102 courses to train 100+ engineers
 - Participated in team and Incident Commander 24/7 on-call rotations
 - Infrastructure lead for launch of a new billing system; started SRE Partner program
-- 
 ```
 
 ### Wink
@@ -60,9 +59,8 @@ CNC/Manual Machining and Prototyping | Addative Manufacturing | Welding | Solder
 
 ## Education
 
-### Georgia Institute of Technology
-##### B.S. Mechanical Engineering 2013 
-Manufacturing Processes | Machine Design | Prototyping | Product Design
+### Georgia Institute of Technology | B.S. Mechanical Engineering 2013 
+##### Manufacturing Processes | Machine Design | Prototyping | Product Design
 
 -----
 
