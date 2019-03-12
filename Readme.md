@@ -4,11 +4,14 @@
 
 ## Work
 
-### Squarespace | Site Reliability Engineer | New York, NY August 2017 - Present 
+### Squarespace | Senior Site Reliability Engineer / Team Lead | New York, NY August 2017 - Present 
 ```
-- Set up cross datacenter Kubernetes multi-cluster federation
-- Wrote services in Go for ESXi host selection, vCenter metrics exporting
-- Architected convetions for moving applications from VMs to conatiners / Kubernetes
+- Led a team of 7 engineers in launching a new internal cloud platform which replaced the runtime orchestration, metrics, alerting, and CI/CD layers of the Squarespace stack. 
+- Architectued a the migration of over 20+ application and 3000 VMs a container based platform built around Kubernetes.
+- Created, taught, and trained over 100 engineers using a Kubernetes 101 and 102 classes.
+- Participated in team and Incident Commander 24/7 on-call rotations
+- Billing rollout, SRE partner program
+- Mitigation of meltdown and spectre + upgrade automation software
 ```
 
 ### Wink — Senior Site Reliability Engineer | Flextronics | New York, NY December 2015 - August 2017 
