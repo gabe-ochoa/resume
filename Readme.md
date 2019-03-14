@@ -1,14 +1,14 @@
 # Gabe Ochoa
-##### 3 Decatur St Apt 3, Brooklyn, NY 11216 | (512) 826-5402 | gabeochoa@gmail.com | gabeochoa.com
+##### 3 Decatur St Apt 3, Brooklyn, NY 11216 | (512) 826-5402 |  gabeochoa@gmail.com | [gabeochoa.com](https://gabeochoa.com)
 
 ### Squarespace 
 ##### Senior Site Reliability Engineer / Team Lead | New York, NY | August 2017 - Present 
 ```
 - Led a team of 7 engineers in launching a new internal cloud platform which replaced 
-the runtime orchestration, metrics, alerting, and CI/CD layers of the Squarespace stack
-- Architectued the migration of over 20+ application and 3000 VMs a container based platform
+  the runtime orchestration, metrics, alerting, and CI/CD layers of the Squarespace stack
+- Architected the migration of over 20+ application and 3000 VMs a container based platform
 - Created Kubernetes 101 and 102 courses to train 100+ engineers
-- Participated in team and Incident Commander 24/7 on-call rotations
+- Participated in Team and Incident Commander 24/7 on-call rotations
 - Infrastructure lead for launch of a new billing system; started SRE Partner program
 ```
 
@@ -17,11 +17,11 @@ the runtime orchestration, metrics, alerting, and CI/CD layers of the Squarespac
 
 ```
   - 1.5 years of running Kubernetes in production with large scale workloads
-  - Architected and led migration of all microservices from PAAS provider to highly
-  available AWS hosted Kubernetes Clusters including full CI/CD
+  - Architected and led migration of all micro-services from Heroku to highly
+    available AWS hosted Kubernetes Clusters including full CI/CD
   - Built and maintained tools for self-service use of the infrastructure by developers
   - On-call for and supported 18 micro-services and underlying infrastructure
-  - Architected and built a fault tolerant logging and metrics pipeline for micro-services 
+  - Architected and built a fault-tolerant logging and metrics pipeline
   - Developed and championed SRE culture/practices across engineering organization
 ```
 
@@ -31,7 +31,7 @@ the runtime orchestration, metrics, alerting, and CI/CD layers of the Squarespac
     product integrations including Amazon Echo, Nest, Schlage Locks, etc 
   - Served as core team/scrum lead for 4-6 week product integration cycles
   - Led vendors and manufacturing partners in Asia through final stages of
-  development and testing of ZigBee, Z-Wave, and Bluetooth embedded devices
+    development and testing of ZigBee, Z-Wave, and Bluetooth embedded devices
   - Trained and helped launch a customer service center of 50+ employees
   - Designed hardware and processes to refurbish 40,000 company products in 1 month
 ```
@@ -40,7 +40,7 @@ the runtime orchestration, metrics, alerting, and CI/CD layers of the Squarespac
 ##### BlackOps Design Engineer | New York, NY | January 2014 - August 2014 
 ```
   - Prototyping specialist for CEO’s personal four-member design team
-  - As a fast-pace team: we researched, designed, and built against 48 hour deadlines
+  - As a fast-pace teamwe researched, designed, and built against 48 hour deadlines
   - Constructed visual and functional prototypes for Quirky Aros and Wink Relay
 ```
 
