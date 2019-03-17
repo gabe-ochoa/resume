@@ -7,8 +7,8 @@
 - Led a team of 7 engineers in launching, getting organization buy-in, and migrating 
   3000 VMs owned by 15 teams to a new internal compute platform. The new platform replaced 
   the software runtime, metrics, alerting, and CI/CD layers of the Squarespace stack
-- Created charter and led agile development processes for SRE Compute team
-- Created and led Kubernetes 101 and 102 courses to train 100+ engineers
+- Created team charter and led agile development processes for the SRE Compute team
+- Created and led Kubernetes 101 and 102 training courses for 100+ engineers
 - SRE Lead for launch of a new billing system; started SRE Partner program
 - Participated in Team and Incident Commander 24/7 on-call rotations
 ```
@@ -16,11 +16,11 @@
 ### Wink
 ##### Systems Engineer | Quirky Inc | New York, NY | August 2014 - December 2015 
 ```
-- Was the subject expert for integration of Amazon Echo, Nest, Schlage Locks, 
+- Technical product expert for integration of Amazon Echo, Nest, Schlage Locks, and many 
   ZigBee and Z-Wave products into the Wink platform.  
-- Researched new smart home technologies (LoRoWan, BLE Beacons, etc) for possible products
-- Led vendors and partners in Asia through final stages of development and testing of ZigBee, 
-  Z-Wave, and Bluetooth embedded devices
+- Researched new and emerging smart home technologies (LoRoWan, BLE Beacons, etc)
+- Led vendors and manufacturers in Asia through final stages of development and testing of 
+  ZigBee, Z-Wave, and Bluetooth embedded devices
 - Trained and helped launch a customer service center of 50+ employees
 - Designed hardware and processes to refurbish 40,000 company products in 1 month
 ```
@@ -28,9 +28,9 @@
 ##### Site Reliability Engineer | Flextronics | New York, NY | December 2015 - August 2017 
 
 ```
-- Created AWS-hosted Kubernetes clusters and migrated applications from Heroku
+- Created AWS-hosted Kubernetes clusters and migrated all applications from Heroku
 - Participated in Design Thinking workshops and user story sessions
-- Built internal product for launching self service infrastructure by developers
+- Built internal product for creating micro-service infrastructure by developers
 - Was on-call for and supported 18 micro-services and underlying infrastructure
 - Designed and built a fault-tolerant logging and metrics pipeline
 - Developed and championed SRE culture/practices across engineering organization
