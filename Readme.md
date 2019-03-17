@@ -47,6 +47,10 @@
 ### Frog Design 
 ##### Design Technologist Intern | Austin, TX May 2013 - August 2013 
 
+
+<br><br>
+<br><br>
+
 ## Skills
 
 #### Software
