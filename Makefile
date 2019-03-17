@@ -11,7 +11,9 @@ render: markdown pdf-letter
 preview: markdown
 
 markdown:
-	grip $(mdFile) --user-content --wide --export $(renderDate).html
+	cp $(mdFile) Resume.md
+	grip Resume.md --wide --export $(renderDate).html
+	rm Resume.md
 
 pdf-chrome:
 	/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --headless  --disable-gpu --print-to-pdf=$(renderDate).pdf $(renderDate).html

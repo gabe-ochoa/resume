@@ -1,47 +1,47 @@
-# Gabe Ochoa
+# Gabriel Ochoa
 ##### 3 Decatur St Apt 3, Brooklyn, NY 11216 | (512) 826-5402 |  gabeochoa@gmail.com | [gabeochoa.com](https://gabeochoa.com)
 
 ### Squarespace 
-##### Senior Site Reliability Engineer / Team Lead | New York, NY | August 2017 - Present 
+##### Senior Site Reliability Engineer (SRE) / Team Lead | New York, NY | August 2017 - Present 
 ```
-- Led a team of 7 engineers in launching a new internal cloud platform which replaced 
-  the runtime orchestration, metrics, alerting, and CI/CD layers of the Squarespace stack
-- Architected the migration of over 20+ application and 3000 VMs a container based platform
-- Created Kubernetes 101 and 102 courses to train 100+ engineers
+- Led a team of 7 engineers in launching, getting organization buy-in, and migrating 
+  3000 VMs owned by 15 teams to a new internal compute platform. The new platform replaced 
+  the software runtime, metrics, alerting, and CI/CD layers of the Squarespace stack
+- Created charter and led agile development processes for SRE Compute team
+- Created and led Kubernetes 101 and 102 courses to train 100+ engineers
+- SRE Lead for launch of a new billing system; started SRE Partner program
 - Participated in Team and Incident Commander 24/7 on-call rotations
-- Infrastructure lead for launch of a new billing system; started SRE Partner program
+```
+ 
+### Wink
+##### Systems Engineer | Quirky Inc | New York, NY | August 2014 - December 2015 
+```
+- Was the subject expert for integration of Amazon Echo, Nest, Schlage Locks, 
+  ZigBee and Z-Wave products into the Wink platform.  
+- Researched new smart home technologies (LoRoWan, BLE Beacons, etc) for possible products
+- Led vendors and partners in Asia through final stages of development and testing of ZigBee, 
+  Z-Wave, and Bluetooth embedded devices
+- Trained and helped launch a customer service center of 50+ employees
+- Designed hardware and processes to refurbish 40,000 company products in 1 month
 ```
 
-### Wink
 ##### Site Reliability Engineer | Flextronics | New York, NY | December 2015 - August 2017 
 
 ```
-  - 1.5 years of running Kubernetes in production with large scale workloads
-  - Architected and led migration of all micro-services from Heroku to highly
-    available AWS hosted Kubernetes Clusters including full CI/CD
-  - Built and maintained tools for self-service use of the infrastructure by developers
-  - On-call for and supported 18 micro-services and underlying infrastructure
-  - Architected and built a fault-tolerant logging and metrics pipeline
-  - Developed and championed SRE culture/practices across engineering organization
-```
-
-##### Systems Engineer | Quirky Inc | New York, NY | August 2014 - December 2015 
-```
-  - Researched developing technologies and served as the subject expert for 
-    product integrations including Amazon Echo, Nest, Schlage Locks, etc 
-  - Served as core team/scrum lead for 4-6 week product integration cycles
-  - Led vendors and manufacturing partners in Asia through final stages of
-    development and testing of ZigBee, Z-Wave, and Bluetooth embedded devices
-  - Trained and helped launch a customer service center of 50+ employees
-  - Designed hardware and processes to refurbish 40,000 company products in 1 month
+- Created AWS-hosted Kubernetes clusters and migrated applications from Heroku
+- Participated in Design Thinking workshops and user story sessions
+- Built internal product for launching self service infrastructure by developers
+- Was on-call for and supported 18 micro-services and underlying infrastructure
+- Designed and built a fault-tolerant logging and metrics pipeline
+- Developed and championed SRE culture/practices across engineering organization
 ```
 
 ### Quirky 
 ##### BlackOps Design Engineer | New York, NY | January 2014 - August 2014 
 ```
-  - Prototyping specialist for CEO’s personal four-member design team
-  - As a fast-pace teamwe researched, designed, and built against 48 hour deadlines
-  - Constructed visual and functional prototypes for Quirky Aros and Wink Relay
+- Prototyping specialist for CEO’s personal four-member design team
+- Demonstrated products to executives, retail buyers, and investors
+- Constructed visual and functional prototypes for Quirky Aros and Wink Relay
 ```
 
 ### Frog Design 
@@ -49,13 +49,16 @@
 
 ## Skills
 
-### Software
+#### Software
 
-Kubernetes | Prometheus | Containers | Linux | Go | Python | Ruby | AWS | GCP | Redis | Etcd | MySQL | Memcached | DynamoDB | CircleCI | Datadog | SumoLogic | Ansible | Terraform 
+Kubernetes | Prometheus | Containers | AWS | GCP | Linux | Go | Python | Ruby | Redis | Etcd | MySQL | 
+Memcached |
+DynamoDB | CircleCI | Datadog | SumoLogic | Ansible 
 
-### Hardware
+#### Hardware
 
-CNC/Manual Machining and Prototyping | Addative Manufacturing | Welding | Soldering | Wood/Metalworking | Solidworks | AutoCAD/Fusion 360 | HSMWorks | Pro-E/Creo
+CNC/Manual Machining and Prototyping | Addative Manufacturing | Welding | Soldering | Wood/Metalworking | Solidworks |
+AutoCAD/Fusion 360 | HSMWorks | Pro-E/Creo
 
 ## Education
 
@@ -64,4 +67,4 @@ CNC/Manual Machining and Prototyping | Addative Manufacturing | Welding | Solder
 
 -----
 
-github.com/gabe-ochoa/resume
+https://github.com/gabe-ochoa/resume

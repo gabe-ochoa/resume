@@ -16,6 +16,8 @@ You'll need chrome and grip (github markdown generation) installed.
 pip install grip
 ```
 
+npm install -S htmlto
+
 To generate pdf from resume.md:
 
 ```
