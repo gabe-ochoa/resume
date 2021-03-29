@@ -2,7 +2,32 @@
 ##### 3 Decatur St Apt 3, Brooklyn, NY 11216 | (512) 826-5402 |  gabeochoa@gmail.com | [gabeochoa.com](https://gabeochoa.com)
 
 ### Squarespace 
-##### Senior Site Reliability Engineer (SRE) / Team Lead | New York, NY | August 2017 - Present 
+##### Engineering Manager | Compute & Traffic Infrastructure | New York, NY | December 2020 - Present 
+```
+- Lead 17 engineers across 4 diciplines (Compute, Traffic, Storage, Data Center)
+  2 team leads (responsible for people) and 3 tech leds (responsible for technologies) across the 4 diciplines
+- Managed capacity planning and procurment process for Squaresapce data centers and public cloud
+- Founding member of the One Platform itituative to make all Squarespace Infrastructure products looks and feel the same to our internal customers
+  Inituative to abstract on-prem and cloud infrastructure for our end users
+  Provide a seamless API to allow for quick prototyping of ideas across engineering
+```
+
+### Squarespace 
+##### Engineering Manager | Traffic Infrastructure | New York, NY | October 2018 - December 2020
+```
+- Started a new team of 5 to manage, grow, and develop Squarespace's edge infrastructure. 
+  Help the team build a charter, values, and operating processes that kept everyone informed while allowing for individual autonomy and working styles
+  Mentored engineers on the team and across the organization
+- Led re-write of the core edge load balancer, shipping in 8 months from problem identification to 100% production rollout
+  This project reduced the time it takes to make a secure connection times to squarespace by 5x 
+  Allowed for better visibility and horizonatal scaling of the edge infrastructure
+- Main point of contact for Lets Encrypt and other 3rd party partners
+- Managed relationship and work items for regulatory compliance with the team
+- Product owner and project manager: planned and organized the work for the team
+```
+
+### Squarespace 
+##### Senior Site Reliability Engineer (SRE) / Team Lead | New York, NY | August 2017 - October 2018 
 ```
 - Led a team of 7 engineers in launching, getting organization buy-in, and migrating 
   3000 VMs owned by 15 teams to a new internal compute platform. The new platform replaced 
@@ -11,6 +36,17 @@
 - Created and led Kubernetes 101 and 102 training courses for 100+ engineers
 - SRE Lead for launch of a new billing system; started SRE Partner program
 - Participated in Team and Incident Commander 24/7 on-call rotations
+```
+
+##### Site Reliability Engineer | Flextronics | New York, NY | December 2015 - August 2017 
+
+```
+- Created AWS-hosted Kubernetes clusters and migrated all applications from Heroku
+- Participated in Design Thinking workshops and user story sessions
+- Built internal product for creating micro-service infrastructure by developers
+- Was on-call for and supported 18 micro-services and underlying infrastructure
+- Designed and built a fault-tolerant logging and metrics pipeline
+- Developed and championed SRE culture/practices across engineering organization
 ```
  
 ### Wink
@@ -23,17 +59,6 @@
   ZigBee, Z-Wave, and Bluetooth embedded devices
 - Trained and helped launch a customer service center of 50+ employees
 - Designed hardware and processes to refurbish 40,000 company products in 1 month
-```
-
-##### Site Reliability Engineer | Flextronics | New York, NY | December 2015 - August 2017 
-
-```
-- Created AWS-hosted Kubernetes clusters and migrated all applications from Heroku
-- Participated in Design Thinking workshops and user story sessions
-- Built internal product for creating micro-service infrastructure by developers
-- Was on-call for and supported 18 micro-services and underlying infrastructure
-- Designed and built a fault-tolerant logging and metrics pipeline
-- Developed and championed SRE culture/practices across engineering organization
 ```
 
 ### Quirky 
@@ -55,14 +80,11 @@
 
 #### Software
 
-Kubernetes | Prometheus | Containers | AWS | GCP | Linux | Go | Python | Ruby | Redis | Etcd | MySQL | 
-Memcached |
-DynamoDB | CircleCI | Datadog | SumoLogic | Ansible 
+Kubernetes | Prometheus | Containers | AWS | GCP | Linux | Go | Python | Ruby | Redis | Etcd | MySQL | Memcached | DynamoDB | CircleCI | Datadog | SumoLogic | Ansible 
 
 #### Hardware
 
-CNC/Manual Machining and Prototyping | Addative Manufacturing | Welding | Soldering | Wood/Metalworking | Solidworks |
-AutoCAD/Fusion 360 | HSMWorks | Pro-E/Creo
+CNC/Manual Machining and Prototyping | Addative Manufacturing | Welding | Soldering | Wood/Metalworking | Solidworks | AutoCAD/Fusion 360 | HSMWorks | Pro-E/Creo
 
 ## Education
 
