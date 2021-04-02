@@ -2,6 +2,8 @@
 renderDate=$(shell date +%Y-%m-%d)$(suffix)
 mdFile?=Readme.md
 
+all: render
+
 .PHONY: render
 
 render: markdown pdf-letter
