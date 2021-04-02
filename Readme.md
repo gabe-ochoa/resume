@@ -1,11 +1,11 @@
 # Gabriel Ochoa
-##### 3 Decatur St Apt 3, Brooklyn, NY 11216 | (512) 826-5402 |  gabeochoa@gmail.com | [gabeochoa.com](https://gabeochoa.com)
+##### (512) 826-5402 |  gabeochoa@gmail.com | [gabe.work](https://gabe.work)
 
 ### Squarespace 
-##### Engineering Manager | Compute & Traffic Infrastructure | New York, NY | December 2020 - Present 
+##### Engineering Manager | Infrastructure | New York, NY | December 2020 - Present 
 ```
-- Lead 17 engineers across 4 diciplines (Compute, Traffic, Storage, Data Center)
-  2 team leads (responsible for people) and 3 tech leds (responsible for technologies) across the 4 diciplines
+- Lead 17 engineers across 5 diciplines (Compute, Traffic, Storage, Data Center. Base Services)
+  2 team leads (responsible for people) and 3 tech leds (responsible for technologies) across the 5 diciplines
 - Managed capacity planning and procurment process for Squaresapce data centers and public cloud
 - Founding member of the One Platform itituative to make all Squarespace Infrastructure products looks and feel the same to our internal customers
   Inituative to abstract on-prem and cloud infrastructure for our end users
