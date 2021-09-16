@@ -5,21 +5,26 @@
 ##### Engineering Manager | Infrastructure | New York, NY | December 2020 - Present 
 ```
 - Lead 17 engineers across 5 disciplines (Compute, Traffic, Storage, Data Center, Bedrock Services)
-  I manage and coach 3 team leads (responsible for people management) and 3 tech leads (responsible for technology decisions) across the 5 disciplines
+  I manage and coach 3 team leads (responsible for people management) and 3 tech leads (responsible for 
+  technology decisions) across the 5 disciplines
 - Managed capacity planning and procurement process for Squaresapce data centers and public cloud
-- Deeply involved in our hiring practices by creating rubrics, interviewing competencies, and process to hire engineers across Infrastructure Engineering
-- Provided architectural design review and feedback for critical changes to Squarespace products and infrastructure 
-- Founding member of the One Platform initiative to make all Squarespace Infrastructure products looks and feel the same to our internal customers
-  This initiative advocated for abstracting on-prem and cloud infrastructure for our end users and providing a seamless API to allow for quick prototyping of ideas across engineering
+- Deeply involved in our hiring practices by creating rubrics, interviewing competencies, and process to hire 
+engineers across Infrastructure Engineering
+- Provided architectural design review and feedback for critical changes across Squarespace 
+- Founding member of the One Platform initiative to make all Squarespace Infrastructure 
+products looks and feel the same to our internal customers
+  This initiative advocated for abstracting on-prem and cloud infrastructure for our end users and providing 
+  a seamless API to allow for quick prototyping of ideas across engineering
 ```
 
 ### Squarespace 
 ##### Engineering Manager | Traffic Infrastructure | New York, NY | October 2018 - December 2020
 ```
 - Started a new team of 5 to manage, grow, and develop Squarespace's edge infrastructure. 
-  Helped the team build a charter, values, and operating processes that kept everyone informed while allowing for individual autonomy and working styles
+  Helped the team build a charter, values, and operating processes that kept everyone informed while allowing 
+  for individual autonomy and working styles
   Mentored engineers on the team and across the organization
-- Led re-write of the core edge load balancer, shipping in 8 months from problem identification to 100% production rollout
+- Led re-write of the core edge load balancer, shipping in 8 months from problem identification to 100% rollout
   This project reduced the time it takes to make a secure connection to Squarespace by 5x 
   Allowed for better visibility and horizontal scaling of the edge infrastructure
 - Main point of contact for Lets Encrypt and other 3rd party partners
@@ -79,24 +84,25 @@
 
 ## Skills
 
-#### Proficient
+### Proficient
 
 Networking | Linux | Go | DNS | TLS | Internet routing | Git | Kubernetes | 
 Prometheus | Containers | AWS | GCP | CircleCI | Datadog | SumoLogic | Ansible |
 
 Design thinking | User-centered design | Distributed systems |
 
-#### Well-versed
+Additive Manufacturing | Welding | Soldering | Wood/Metalworking | Solidworks | 
+CNC/Manual Machining and Prototyping |
+
+### Well-versed
 
 Ruby | Redis | Etcd | MySQL | Etcd | Memcached | DynamoDB | Zigbee | ZWave | IoT Protocols |
 
-#### Novice
+### Novice
 
 Python | MQTT | 
 
-### Hardware
-
-CNC/Manual Machining and Prototyping | Additive Manufacturing | Welding | Soldering | Wood/Metalworking | Solidworks | AutoCAD/Fusion 360 | HSMWorks | Pro-E/Creo
+AutoCAD/Fusion 360 | HSMWorks | Pro-E/Creo | PCD Design
 
 ## Education
 
