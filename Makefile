@@ -8,12 +8,12 @@ all: render
 
 
 render: markdown
-	mv $(renderDate).pdf archive/resume-$(renderDate)-$(shell md5 -q $(renderDate).pdf | cut -c 25-33).pdf && \
+	mv $(renderDate).pdf archive/resume-$(renderDate)-$(shell md5 -q $(renderDate).pdf | cut -c 25-33).pdf
 
 preview: markdown
 
 markdown:
-	pandoc Readme.md -V geometry:margin=1in --pdf-engine=/Library/TeX/texbin/pdflatex -o resume.pdf
+	pandoc Readme.md -V geometry:margin=1in --pdf-engine=/Library/TeX/texbin/pdflatex -o $(renderDate).pdf
 
 install:
 	brew install pandoc basictex
