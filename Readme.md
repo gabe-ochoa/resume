@@ -4,8 +4,8 @@
 ### Squarespace 
 ##### Engineering Manager | Infrastructure | New York, NY | December 2020 - Present 
 - Lead 18 engineers across 5 disciplines (Compute, Traffic, Storage, Data Center, Bedrock Services)
-- I manage and coach 3 team leads (responsible for people management) and 3 tech leads (responsible for technology decisions) across the 5 disciplines
-- Managed capacity planning and procurement process for Squaresapce data centers and public cloud
+- I manage and coach 1 manager, 3 team leads (responsible for people management), and 3 tech leads (responsible for technology decisions)
+- Managed capacity planning and procurement process for Squarespace data centers and public cloud
 - Deeply involved in our hiring practices by creating rubrics, interviewing competencies, and process to hire 
 engineers across Infrastructure Engineering
 - Provided architectural design review and feedback for critical changes across Squarespace 
@@ -13,10 +13,10 @@ engineers across Infrastructure Engineering
 products look and feel the same to our internal customers
 
 ### Kinoko
-##### Co-Founder | New York, NY | August 2018 - Janauary 2021
+##### Co-Founder | New York, NY | August 2018 - January 2021
 - Co-Founder that help build out a peer to peer video chatting product for our aging population to connect with their families
-- Tech stack included WebRTC, Go, Typescript, Postgres, Linux and a Rasperry Pi TV video kiosk
-- Made product briefs, user interview questionaries, and analytic usage reports, and communication APIs between the kiosk and the backends
+- Tech stack included WebRTC, Go, Typescript, Postgres, Linux and a Raspberry Pi TV video kiosk
+- Made product briefs, user interview questionnaires, and analytic usage reports, and communication APIs between the kiosk and the backends
 
 ### Squarespace 
 ##### Engineering Manager | Traffic Infrastructure | New York, NY | October 2018 - December 2020
@@ -24,7 +24,7 @@ products look and feel the same to our internal customers
   Helped the team build a charter, values, and operating processes that kept everyone informed while allowing 
   for individual autonomy and working styles
   Mentored engineers on the team and across the organization
-- Led re-write of the core edge load balancer, shipping in 8 months from problem identification to 100% rollout
+- Led rewrite of the core edge load balancer, shipping in 8 months from problem identification to 100% rollout
   This project reduced the time it takes to make a secure connection to Squarespace by 5x 
   Allowed for better visibility and horizontal scaling of the edge infrastructure
 - Main point of contact for Lets Encrypt and other 3rd party partners
@@ -46,7 +46,7 @@ products look and feel the same to our internal customers
 ##### Site Reliability Engineer | Flextronics | New York, NY | December 2015 - August 2017 
 - Created AWS-hosted Kubernetes clusters and migrated all applications from Heroku
 - Participated in Design Thinking workshops and user story sessions
-- Built internal product for creating micro-service infrastructure by developers
+- Built internal product for creating microservice infrastructure by developers
 - Was on-call for and supported 18 micro-services and underlying infrastructure
 - Designed and built a fault-tolerant logging and metrics pipeline
 - Developed and championed SRE culture/practices across engineering organization
