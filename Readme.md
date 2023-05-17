@@ -1,8 +1,20 @@
 # Gabriel Ochoa
 ##### (512) 826-5402 |  gabeochoa@gmail.com | [gabe.work](https://gabe.work)
 
+### Numina
+##### Head of Engineering | Brooklyn, NY | March 2022 - Present
+- Built and hired a team of 5 engineers across 5 disciplines (Hardware, Firmware, Data Science, Machine Learning / Computer Vision, and Frontend/Backend)
+- Worked with the CEO on fundraising, hiring, and product strategy
+- Managed the engineering and R&D budget for the company
+- Launch a refreshed dashboard that allowed for faster performance, quicker feature delivery, and a better user experience for customer analytics
+- Delivered a new Data Pipeline that increased the speed and scaled with an exponential increase in data ingestion.
+- Oversaw and accuracy increase of over 20% across the Numina platform by using real-world Heavy Engineering testing philosophies.
+- Created a new product roadmap, engineering processes, and technical vision to help the team deliver features in days to weeks instead of months.
+- Created a new hiring process that allowed us to hire 4 engineers in 4-8 weeks instead of 3-6 months.
+- Customer facing role that helped with onboarding, customer support, and sales
+
 ### Squarespace 
-##### Engineering Manager | Infrastructure | New York, NY | December 2020 - Present 
+##### Engineering Manager | Infrastructure | New York, NY | December 2020 - March 2022 
 - Lead 18 engineers across 5 disciplines (Compute, Traffic, Storage, Data Center, Bedrock Services)
 - I manage and coach 1 manager, 3 team leads (responsible for people management), and 3 tech leads (responsible for technology decisions)
 - Managed capacity planning and procurement process for Squarespace data centers and public cloud
