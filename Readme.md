@@ -82,19 +82,21 @@ products look and feel the same to our internal customers
 
 ### Proficient
 
-Networking | Linux | Go | DNS | TLS | Internet routing | Git | Kubernetes | Prometheus | Containers | AWS | GCP | CircleCI | Datadog | SumoLogic | Ansible |
-
+Go | Python | Networking | Linux | DNS | TLS | Internet routing | Git |Kubernetes | Prometheus | Containers | MQTT | IoT Protocols 
+AWS | GCP | GitHub Actions | CircleCI | Datadog | Honeycomb | SumoLogic | Ansible
+ 
 Additive Manufacturing | Welding | Soldering | Wood/Metalworking | Solidworks | CNC/Manual Machining and Prototyping |
 
-Design thinking | User-centered design | Distributed systems |
+Design thinking | User-centered design | Distributed systems | SRE | Agile | Scrum | DevOps | Product thinking | Product management
 
 ### Well-versed
 
-Ruby | Redis | Etcd | MySQL | Etcd | Memcached | DynamoDB | Zigbee | ZWave | IoT Protocols |
+Artificial Intelligence | Machine Learning | Computer Vision 
+Ruby | Redis | Etcd | MySQL | Etcd | Memcached | DynamoDB | Zigbee | ZWave 
 
 ### Novice
 
-Python | MQTT | AutoCAD/Fusion 360 | HSMWorks | Pro-E/Creo | PCD Design
+AutoCAD/Fusion 360 | HSMWorks | Pro-E/Creo | PCD Design
 
 ## Education
 ### Georgia Institute of Technology | B.S. Mechanical Engineering 2013 
