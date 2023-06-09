@@ -1,76 +1,61 @@
 # Gabriel Ochoa
-##### (512) 826-5402 |  gabeochoa@gmail.com | [gabe.work](https://gabe.work)
+##### (512) 826-5402 |  [gabe@ochoa.nyc](mailto:gabe@ochoa.nyc) | [https://gabe.work](https://gabe.work)
 
-### Numina
+\
+
+I’m an Engineering Leader versed in ethical AI, product development, human-centered design, distributed systems, IoT devices, and IT infrastructure. I'm passionate about well-informed environments, experiences, technology that impacts the physical world, and tools that help people work better and faster.
+
+### Numina 
 ##### Head of Engineering | Brooklyn, NY | March 2022 - Present
-- Built and hired a team of 5 engineers across 5 disciplines (Hardware, Firmware, Data Science, Machine Learning / Computer Vision, and Frontend/Backend)
-- Worked with the CEO on fundraising, hiring, and product strategy
-- Managed the engineering and R&D budget for the company
-- Launch a refreshed dashboard that allowed for faster performance, quicker feature delivery, and a better user experience for customer analytics
-- Delivered a new Data Pipeline that increased the speed and scaled with an exponential increase in data ingestion.
-- Oversaw and accuracy increase of over 20% across the Numina platform by using real-world Heavy Engineering testing philosophies.
-- Created a new product roadmap, engineering processes, and technical vision to help the team deliver features in days to weeks instead of months.
-- Created a new hiring process that allowed us to hire 4 engineers in 4-8 weeks instead of 3-6 months.
-- Customer facing role that helped with onboarding, customer support, and sales
-
-### Squarespace 
-##### Engineering Manager | Infrastructure | New York, NY | December 2020 - March 2022 
-- Lead 18 engineers across 5 disciplines (Compute, Traffic, Storage, Data Center, Bedrock Services)
-- I manage and coach 1 manager, 3 team leads (responsible for people management), and 3 tech leads (responsible for technology decisions)
-- Managed capacity planning and procurement process for Squarespace data centers and public cloud
-- Deeply involved in our hiring practices by creating rubrics, interviewing competencies, and process to hire 
-engineers across Infrastructure Engineering
-- Provided architectural design review and feedback for critical changes across Squarespace 
-- Founding member of the One Platform initiative to make all Squarespace Infrastructure 
-products look and feel the same to our internal customers
+- Reduced time to ship new features from 1-6 months to <1 week.
+- Oversaw an volume count accuracy increase of 20-50% per vehicle mode.
+- Architected and delivered a new Data Lake, Pipeline, and Landing Zone after a 3x increase in data ingestion in a 3 month period.
+- Created a new hiring process to hire 4 engineers in 4-8 weeks instead of 3-6 months.
+- Built and hired a team of 5 engineers across 5 disciplines (Hardware, Firmware, Data Science, Machine Learning / Computer Vision, and Frontend/Backend).
+- Launched a new analytics dashboard that allowed for faster queries, quicker feature delivery (hours to days instead of weeks), and a better user experience.
 
 ### Kinoko
-##### Co-Founder | New York, NY | August 2018 - January 2021
-- Co-Founder that help build out a peer to peer video chatting product for our aging population to connect with their families
-- Tech stack included WebRTC, Go, Typescript, Postgres, Linux and a Raspberry Pi TV video kiosk
-- Made product briefs, user interview questionnaires, and analytic usage reports, and communication APIs between the kiosk and the backends
+##### Technical Co-Founder | New York, NY | August 2018 - January 2021
+- Built a peer to peer video chatting product for our rapidly growing aging population 
+- Tech stack: WebRTC, Go, Typescript, Postgres, Linux and a Raspberry Pi TV video kiosk
 
-### Squarespace 
+### Squarespace | August 2017 - March 2022
+##### Engineering Manager | Infrastructure | New York, NY | January 2020 - March 2022 
+- Lead 18 engineers across 5 disciplines (Compute, Traffic, Storage, Data Center, Bedrock Services)
+- Oversaw and helped architect an 3x increase in efficiency of production machines in our data centers to over 60% utilization
+- Managed capacity planning and procurement process for Squarespace data centers and public cloud
+- Founding member of the One Platform initiative to make all Squarespace Infrastructure
+products look and feel the same to our internal customers
+- Primary instructor for Incident Commander training and was IC on-call
+
 ##### Engineering Manager | Traffic Infrastructure | New York, NY | October 2018 - December 2020
-- Started a new team of 5 to manage, grow, and develop Squarespace's edge infrastructure. 
-  Helped the team build a charter, values, and operating processes that kept everyone informed while allowing 
-  for individual autonomy and working styles
-  Mentored engineers on the team and across the organization
-- Led rewrite of the core edge load balancer, shipping in 8 months from problem identification to 100% rollout
-  This project reduced the time it takes to make a secure connection to Squarespace by 5x 
-  Allowed for better visibility and horizontal scaling of the edge infrastructure
-- Main point of contact for Lets Encrypt and other 3rd party partners
-- Managed relationship and work items for regulatory compliance with the team
-- Product owner and project manager: planned and organized the work for the team
+- Started a new team of 5 to manage, grow, and develop Squarespace's edge infrastructure
+- Led performance based rewrite of the core edge load balancer, reduced the time it takes to make a secure connection to Squarespace by 5x and shipping in 8 months from problem identification to 100% rollout
+- Helped the team build a charter, values, and operating processes that kept everyone informed while allowing for individual autonomy and working styles
+- On-call with 2-min response time SLA for uptime of all Squarespace websites
 
 ##### Senior Site Reliability Engineer (SRE) / Team Lead | New York, NY | August 2017 - October 2018 
 - Led a team of 7 engineers in launching, getting organization buy-in, and migrating 
-  3000 VMs owned by 15 teams to a new internal compute platform. The new platform replaced 
-  the software runtime, metrics, alerting, and CI/CD layers of the Squarespace stack
-- Created team charter and led agile development processes for the SRE Compute team
+  3000 VMs owned by 15 teams to a new bare metal Kubernetes internal compute platform
+- The new platform replaced the software runtime, metrics, alerting, and CI/CD layers of the Squarespace stack
+- Designed and built the primary interface for Engineers to deploy code to Production
 - Created and led Kubernetes 101 and 102 training courses for 100+ engineers
-- SRE Lead for launch of a new billing system; started SRE Partner program
-- Participated in Team and Incident Commander 24/7 on-call rotations
-
-<br></br>
+- Created the SRE Partner program and was SRE Lead for launch of the new billing system
 
 ### Wink
 ##### Site Reliability Engineer | Flextronics | New York, NY | December 2015 - August 2017 
-- Created AWS-hosted Kubernetes clusters and migrated all applications from Heroku
+- Migrated all applications from Heroku to AWS EC2 based Kubernetes clusters
 - Participated in Design Thinking workshops and user story sessions
 - Built internal product for creating microservice infrastructure by developers
 - Was on-call for and supported 18 micro-services and underlying infrastructure
-- Designed and built a fault-tolerant logging and metrics pipeline
 - Developed and championed SRE culture/practices across engineering organization
 
 ##### Systems Engineer | Quirky Inc | New York, NY | August 2014 - December 2015 
 - Technical product expert for integration of Amazon Echo, Nest, Schlage Locks, and many 
   ZigBee and Z-Wave products into the Wink platform.  
-- Researched new and emerging smart home technologies (LoRoWan, BLE Beacons, etc)
-- Led vendors and manufacturers in Asia through final stages of development and testing of 
-  ZigBee, Z-Wave, and Bluetooth embedded devices
-- Trained and helped launch a customer service center of 50+ employees
 - Designed hardware and processes to refurbish 40,000 company products in 1 month
+- Led vendors and manufacturers in Asia through final stages of development and testing of ZigBee, Z-Wave, and Bluetooth embedded devices
+- Trained and helped launch a customer service center of 50+ employees
 
 ### Quirky 
 ##### BlackOps Design Engineer | New York, NY | January 2014 - August 2014 
@@ -82,22 +67,23 @@ products look and feel the same to our internal customers
 
 ### Proficient
 
-Go | Python | Networking | Linux | DNS | TLS | Internet routing | Git |Kubernetes | Prometheus | Containers | MQTT | IoT Protocols 
-AWS | GCP | GitHub Actions | CircleCI | Datadog | Honeycomb | SumoLogic | Ansible
- 
-Additive Manufacturing | Welding | Soldering | Wood/Metalworking | Solidworks | CNC/Manual Machining and Prototyping |
+Go | Python | Linux | Networking | DNS | TLS | Kubernetes | Containers | MQTT
+AWS | GCP | CI / CD Systems | Observability & SLOs | Incident Management 
 
-Design thinking | User-centered design | Distributed systems | SRE | Agile | Scrum | DevOps | Product thinking | Product management
+Design thinking | User-centered design | Distributed systems | SRE | Product management
+
+3D Printing | Welding | Soldering | Wood/Metalworking | Machining and Prototyping 
 
 ### Well-versed
 
 Artificial Intelligence | Machine Learning | Computer Vision 
-Ruby | Redis | Etcd | MySQL | Etcd | Memcached | DynamoDB | Zigbee | ZWave 
+Ruby | Redis | Etcd | MySQL | Memcached | DynamoDB | Postgres |Zigbee | ZWave 
 
 ### Novice
 
 AutoCAD/Fusion 360 | HSMWorks | Pro-E/Creo | PCD Design
 
 ## Education
+
 ### Georgia Institute of Technology | B.S. Mechanical Engineering 2013 
 ##### Manufacturing Processes | Machine Design | Prototyping | Product Design
