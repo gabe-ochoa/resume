@@ -8,7 +8,7 @@ I’m an Engineering Leader versed in ethical AI, product development, human-cen
 ### Numina 
 ##### Head of Engineering | Brooklyn, NY | March 2022 - Present
 - Reduced time to ship new features from 1-6 months to <1 week.
-- Oversaw an volume count accuracy increase of 20-50% per vehicle mode.
+- Oversaw a volume count accuracy increase of 20-50% per vehicle mode.
 - Architected and delivered a new Data Lake, Pipeline, and Landing Zone after a 3x increase in data ingestion in a 3 month period.
 - Created a new hiring process to hire 4 engineers in 4-8 weeks instead of 3-6 months.
 - Built and hired a team of 5 engineers across 5 disciplines (Hardware, Firmware, Data Science, Machine Learning / Computer Vision, and Frontend/Backend).
@@ -16,13 +16,13 @@ I’m an Engineering Leader versed in ethical AI, product development, human-cen
 
 ### Kinoko
 ##### Technical Co-Founder | New York, NY | August 2018 - January 2021
-- Built a peer to peer video chatting product for our rapidly growing aging population 
+- Built a peer to peer video conferencing product for our rapidly growing, aging population 
 - Tech stack: WebRTC, Go, Typescript, Postgres, Linux and a Raspberry Pi TV video kiosk
 
 ### Squarespace | August 2017 - March 2022
 ##### Engineering Manager | Infrastructure | New York, NY | January 2020 - March 2022 
 - Lead 18 engineers across 5 disciplines (Compute, Traffic, Storage, Data Center, Bedrock Services)
-- Oversaw and helped architect an 3x increase in efficiency of production machines in our data centers to over 60% utilization
+- Oversaw and helped architect a 3x increase in efficiency of production machines in our data centers to over 60% utilization
 - Managed capacity planning and procurement process for Squarespace data centers and public cloud
 - Founding member of the One Platform initiative to make all Squarespace Infrastructure
 products look and feel the same to our internal customers
@@ -35,7 +35,7 @@ products look and feel the same to our internal customers
 - On-call with 2-min response time SLA for uptime of all Squarespace websites
 
 ##### Senior Site Reliability Engineer (SRE) / Team Lead | New York, NY | August 2017 - October 2018 
-- Led a team of 7 engineers in launching, getting organization buy-in, and migrating 
+- Led a team of 7 engineers in launching, getting organizational buy-in, and migrating 
   3000 VMs owned by 15 teams to a new bare metal Kubernetes internal compute platform
 - The new platform replaced the software runtime, metrics, alerting, and CI/CD layers of the Squarespace stack
 - Designed and built the primary interface for Engineers to deploy code to Production
@@ -81,7 +81,7 @@ Ruby | Redis | Etcd | MySQL | Memcached | DynamoDB | Postgres |Zigbee | ZWave
 
 ### Novice
 
-AutoCAD/Fusion 360 | HSMWorks | Pro-E/Creo | PCD Design
+AutoCAD/Fusion 360 | HSMWorks | Pro-E/Creo | PCB Design
 
 ## Education
 
