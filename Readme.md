@@ -9,43 +9,41 @@ Product-focused strategist engineering leader with 9+ years of experience specia
 
 ### Numina 
 ##### Head of Engineering | Brooklyn, NY | March 2022 - Present
-- Reduced time to ship new features from 1-6 months to <1 week.
-- Oversaw an increase in the accuracy of Numina's data by 20-50%.
-- Architected and delivered a new Data Lake, Pipeline, and Landing Zone after a 3x increase in data ingestion in 3 months.
-- Created a new hiring process to hire 4 engineers in 4-8 weeks instead of 3-6 months.
-- Built and hired a team of engineers across 5 disciplines (Hardware, Firmware, Data Science, Machine Learning / Computer Vision, and Frontend/Backend).
-- Launched a new analytics dashboard that allowed faster queries, quicker feature delivery (hours to days instead of weeks), and a better user experience.
+- Revamped the feature delivery process, reducing shipping time from months to <1 week.
+- Directed an accuracy improvement initiative that boosted data quality by 20-50%.
+- Led the design and implementation of a new Data Lake, Pipeline, and Landing Zone to accommodate 3x data ingestion growth.
+- Streamlined the hiring process, reducing time-to-hire from 6 months to 4-8 weeks.
+- Assembled a diverse engineering team spanning Hardware, Firmware, Data Science, Machine Learning/Computer Vision, and Frontend/Backend.
+- Launched an advanced analytics dashboard, enabling faster queries and enhancing the user experience.
 
 ### Kinoko (Side Project)
 ##### Technical Co-Founder | New York, NY | August 2019 - January 2021
-- Built a peer-to-peer video chatting product for our rapidly growing aging population 
-- Tech stack: WebRTC, Go, Typescript, Postgres, Linux, and a Raspberry Pi TV video kiosk
+Developed a peer-to-peer video chatting product for the aging population using cutting-edge tech stack: WebRTC, Go, TypeScript, Postgres, Linux, and Raspberry Pi TV video kiosk.
 
 ### Squarespace | August 2017 - March 2022
 ##### Engineering Manager | Infrastructure | New York, NY | January 2020 - March 2022 
-- Lead 18 engineers across 5 teams (Compute, Traffic, Storage, Data Center, Bedrock Services)
-- Increased the usage efficiency by 3x to over 60% utilization of our data center capacity.
-- Managed $5 million in capital procurement across 2 data centers and 2 public clouds
-- Primary instructor for Incident Commander training and was IC on-call
+- Orchestrated five engineering teams across 18 engineers, focusing on Runtime Infrastructure across Compute, Traffic, Storage, Data Center, and Security.
+- Drove a 3x increase in data center usage efficiency, reaching over 60% utilization.
+- Responsible for $5M capital procurement across 2 data centers and 2 public clouds.
+- Primary instructor for Incident Commander training and served as the on-call Incident Commander.
 
 ##### Engineering Manager | Traffic Infrastructure | New York, NY | October 2018 - December 2020
-- Started a new team of 5 to manage, grow, and develop industry-leading edge infrastructure
-- Led performance-based rewrite of the core edge load balancer, reduced the time it takes to make a secure connection to Squarespace by 5x and shipping in 8 months from problem identification to 100% rollout
-- Helped the team build a charter, values, and operating processes that kept everyone informed while allowing for individual autonomy and working styles
-- On-call with 2-min response time SLA for uptime of all Squarespace websites
+- Built a new team of 5 to oversee the development and growth of industry-leading edge infrastructure.
+- Championed a performance-based rewrite of the core edge load balancer, reducing secure connection times by 5x.
+- Developed team charter, values, and operating processes that fostered individual autonomy and productivity.
+- Maintained 2-min response time SLA for uptime of all Squarespace websites as on-call manager.
 
 ##### Senior Site Reliability Engineer (SRE) / Team Lead | New York, NY | August 2017 - October 2018 
-- Led a team of 7 engineers in designing, getting organization buy-in, and migrating 3000 VMs to a 
-new bare metal Kubernetes Infrastructure Platform with new metrics, alerting, and CI/CD systems
+- Led the design and migration of 3000 VMs to a new bare-metal Kubernetes Infrastructure Platform with improved metrics, alerting, and CI/CD systems.
 - The new platform reduced deployment time from 1.5 hours to 5 minutes, reduced cost by $100k per year, decreased time to recovery of common incidents by 2x and allowed product team ownership of services
 - Created and led Kubernetes 101 and 102 training courses for 100+ engineers
 - Launched the SRE Partner program that helped critical product teams adopt SRE practices
 
 ### Wink
 ##### Site Reliability Engineer | Flextronics | New York, NY | December 2015 - August 2017 
-- Migrated 18 applications from Heroku to AWS EC2-based Kubernetes clusters in 3 months
-- Built internal product for deploying microservice infrastructure
-- Developed and championed SRE culture/practices across the engineering organization
+- Led the migration of 18 applications from Heroku to AWS EC2-based Kubernetes clusters in a 3-month timeline.
+- Developed an internal product for deploying microservice infrastructure
+- Championed SRE culture/practices across the engineering organization
 
 ##### Systems Engineer | Quirky Inc | New York, NY | August 2014 - December 2015 
 - Technical expert for integration of new products into the Wink platform.  
