@@ -1,11 +1,9 @@
 # Gabriel Ochoa
 ##### (512) 826-5402 |  [gabe@ochoa.nyc](mailto:gabe@ochoa.nyc) | [https://gabe.work](https://gabe.work)
 
-I'm an engineering execuative specializing in building inclusive, empathic, and high-performing teams. I have a passion for building products that make people's lives better and impact the physical world.
+\
 
-Accomplished engineering leader with a product-oriented mindset and 10+ years of experience in building and managing inclusive and autonomous teams to deliver innovative solutions. Known for strategic product development, enhancing system efficiency, and reducing time-to-market.
-
-Product-focused strategist engineering leader with 9+ years of experience specializing in building inclusive teams and guiding strategic product development. I've leveraged my expertise in cloud infrastructure, Kubernetes, analytics, and heavy engineering to transform system efficiency and delivery timescales. I'm known for my ability to build and manage high-performing, autonomous, and inclusive teams that deliver innovative solutions and reduce time-to-market.
+I'm an engineering leader specializing in building inclusive, empathic, and high-performing teams. I have a passion for building products that make people's lives better and impact the physical world.
 
 ### Numina 
 ##### Head of Engineering | Brooklyn, NY | March 2022 - Present
