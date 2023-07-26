@@ -12,18 +12,20 @@ I'm an engineering leader specializing in building inclusive, empathic, and high
 - Led the design and implementation of a new Data Lake, Pipeline, and Landing Zone to accommodate 3x data ingestion growth.
 - Streamlined the hiring process, reducing time-to-hire from 6 months to 4-8 weeks.
 - Assembled a diverse engineering team spanning Hardware, Firmware, Data Science, Machine Learning/Computer Vision, and Frontend/Backend.
-- Launched an advanced analytics dashboard, enabling faster queries and enhancing the user experience.
+- Launched a new analytics dashboard, enabling faster queries, and enhancing the user experience.
 
 ### Kinoko (Side Project)
 ##### Technical Co-Founder | New York, NY | August 2019 - January 2021
-Developed a peer-to-peer video chatting product for the aging population using cutting-edge tech stack: WebRTC, Go, TypeScript, Postgres, Linux, and Raspberry Pi TV video kiosk.
+- A peer-to-peer video chatting product for the aging population using WebRTC, Go, TypeScript, Postgres, Linux, and Raspberry Pi TV video kiosk.
 
 ### Squarespace | August 2017 - March 2022
 ##### Engineering Manager | Infrastructure | New York, NY | January 2020 - March 2022 
-- Orchestrated five engineering teams across 18 engineers, focusing on Runtime Infrastructure across Compute, Traffic, Storage, Data Center, and Security.
+- Orchestrated five engineering teams across Compute, Traffic, Storage, Data Center, and Security.
 - Drove a 3x increase in data center usage efficiency, reaching over 60% utilization.
 - Responsible for $5M capital procurement across 2 data centers and 2 public clouds.
-- Primary instructor for Incident Commander training and served as the on-call Incident Commander.
+- Developed and Infrastructure Product interface (CI tools), empowering product teams to autonomously manage their infrastructure requirements.
+- Collaborated with the Security and Compliance departments to transparently integrate pre-IPO SOX controls into the infrastructure.
+- Primary instructor for Incident Commander training and internal Code Camp instructor.
 
 ##### Engineering Manager | Traffic Infrastructure | New York, NY | October 2018 - December 2020
 - Built a new team of 5 to oversee the development and growth of industry-leading edge infrastructure.
@@ -44,7 +46,7 @@ Developed a peer-to-peer video chatting product for the aging population using c
 - Championed SRE culture/practices across the engineering organization
 
 ##### Systems Engineer | Quirky Inc | New York, NY | August 2014 - December 2015 
-- Technical expert for integration of new products into the Wink platform.  
+- Technical expert for integration of new products into the Wink platform.
 - Designed hardware and processes to refurbish 40,000 company products in 1 month
 - Led vendors in Asia through the final stages of R&D for new smart home products
 - Trained and helped launch a customer service center of 50+ employees
