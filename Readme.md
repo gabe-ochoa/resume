@@ -7,8 +7,10 @@ I'm an engineering leader specializing in building inclusive, empathic, and high
 
 ### Numina 
 ##### Head of Engineering | Brooklyn, NY | March 2022 - Present
-- Revamped the feature delivery process, reducing shipping time from months to <1 week.
-- Directed an accuracy improvement initiative that boosted data quality by 20-50%.
+- Led engineering, product development, and R&D for Numina's edge AI IoT computer vision (CV) products, data platform, public API, data analysis dashboard, and custom sensor hardware.
+- Managed inventory planning, contract manufacturing, and supply chain logistics for Numina's hardware products.
+- Directed an accuracy improvement initiative via model retraining, algorithm improvements that boosted data accuracy by 20-50%.
+- Revamped the UX of code delivery and testing, reducing shipping time from months to <1 week.
 - Led the design and implementation of a new Data Lake, Pipeline, and Landing Zone to accommodate 3x data ingestion growth.
 - Streamlined the hiring process, reducing time-to-hire from 6 months to 4-8 weeks.
 - Assembled a diverse engineering team spanning Hardware, Firmware, Data Science, Machine Learning/Computer Vision, and Frontend/Backend.
@@ -23,15 +25,17 @@ I'm an engineering leader specializing in building inclusive, empathic, and high
 - Orchestrated five engineering teams across Compute, Traffic, Storage, Data Center, and Security.
 - Drove a 3x increase in data center usage efficiency, reaching over 60% utilization.
 - Responsible for $5M capital procurement across 2 data centers and 2 public clouds.
-- Developed and Infrastructure Product interface (CI tools), empowering product teams to autonomously manage their infrastructure requirements.
+- Developed Squarespace's Infrastructure Product empowering product teams to autonomously manage their infrastructure requirements via Kubernetes Custom Resource Definitions and Operators.
 - Collaborated with the Security and Compliance departments to transparently integrate pre-IPO SOX controls into the infrastructure.
 - Primary instructor for Incident Commander training and internal Code Camp instructor.
 
 ##### Engineering Manager | Traffic Infrastructure | New York, NY | October 2018 - December 2020
 - Built a new team of 5 to oversee the development and growth of industry-leading edge infrastructure.
-- Championed a performance-based rewrite of the core edge load balancer, reducing secure connection times by 5x.
+- Championed and architected a performance-based rewrite of the core edge load balancer, reducing secure connection times by 5x on every request to Squarespace.
 - Developed team charter, values, and operating processes that fostered individual autonomy and productivity.
 - Maintained 2-min response time SLA for uptime of all Squarespace websites as on-call manager.
+
+\
 
 ##### Senior Site Reliability Engineer (SRE) / Team Lead | New York, NY | August 2017 - October 2018 
 - Led the design and migration of 3000 VMs to a new bare-metal Kubernetes Infrastructure Platform with improved metrics, alerting, and CI/CD systems.
