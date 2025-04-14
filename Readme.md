@@ -3,10 +3,27 @@
 
 \
 
-I'm an engineering leader specializing in building inclusive, empathic, and high-performing teams. I have a passion for building products that make people's lives better and impact the physical world.
+I'm an engineering leader specializing in building high-performing, inclusive, and empathic teams. I have a passion for building products that make people's lives better and impact the physical world.
+
+
+### Datadog
+
+##### Senior Engineering Manager | APM Data Observability | New York, NY | October 2023 - Present
+
+- Led engineering for the APM Data Observability suite (14 engineers).
+- Incubated and grew two new products (DSM & DJM) targeting the Data Observability market and Data Engineer persona, acquiring new customer accounts.
+- Scaled Data Streams Monitoring (DSM) from pre-revenue to $5M ARR in 12 months.
+- Launched Data Jobs Monitoring (DJM) from private beta to GA, achieving 20% MoM revenue growth in its first 6 months post-GA.
+- Rapidly prototyped Data Warehouse Monitoring (2 engineers), securing the first customer within 4 weeks.
+- Fostered a startup-like environment driving rapid decisions, continuous customer feedback, and proactive deal support for accelerated early growth with Product and Design partners.
+- Doubled the engineering team in 12 months, conducting 180+ interviews and partnering with recruiting for top talent.
+- Expedited feature development and critical fixes for key deals through cross-functional collaboration and prioritization.
+- Drove internal adoption and product refinement by partnering with Data Platform teams to integrate their use cases.
+
 
 ### Numina 
-##### Head of Engineering | Brooklyn, NY | March 2022 - Present
+##### Head of Engineering | Brooklyn, NY | March 2022 - September 2023
+
 - Led engineering, product development, and R&D for Numina's edge AI IoT computer vision (CV) products, data platform, public API, data analysis dashboard, and custom sensor hardware.
 - Managed inventory planning, contract manufacturing, and supply chain logistics for Numina's hardware products.
 - Directed an accuracy improvement initiative via model retraining, algorithm improvements that boosted data accuracy by 20-50%.
@@ -18,47 +35,51 @@ I'm an engineering leader specializing in building inclusive, empathic, and high
 
 ### Kinoko (Side Project)
 ##### Technical Co-Founder | New York, NY | August 2019 - January 2021
+
 - A peer-to-peer video chatting product for the aging population using WebRTC, Go, TypeScript, Postgres, Linux, and Raspberry Pi TV video kiosk.
+
+\
 
 ### Squarespace | August 2017 - March 2022
 ##### Engineering Manager | Infrastructure | New York, NY | January 2020 - March 2022 
+
 - Orchestrated five engineering teams across Compute, Traffic, Storage, Data Center, and Security.
 - Drove a 3x increase in data center usage efficiency, reaching over 60% utilization.
 - Responsible for $5M capital procurement across 2 data centers and 2 public clouds.
-- Developed Squarespace's Infrastructure Product empowering product teams to autonomously manage their infrastructure requirements via Kubernetes Custom Resource Definitions and Operators.
+- Developed Squarespace's Infrastructure Platform empowering product teams to autonomously manage their Kubernetes infrastructure.
 - Collaborated with the Security and Compliance departments to transparently integrate pre-IPO SOX controls into the infrastructure.
 - Primary instructor for Incident Commander training and internal Code Camp instructor.
 
 ##### Engineering Manager | Traffic Infrastructure | New York, NY | October 2018 - December 2020
+
 - Built a new team of 5 to oversee the development and growth of industry-leading edge infrastructure.
 - Championed and architected a performance-based rewrite of the core edge load balancer, reducing secure connection times by 5x on every request to Squarespace.
 - Developed team charter, values, and operating processes that fostered individual autonomy and productivity.
 - Maintained 2-min response time SLA for uptime of all Squarespace websites as on-call manager.
 
-\
-
 ##### Senior Site Reliability Engineer (SRE) / Team Lead | New York, NY | August 2017 - October 2018 
+
 - Led the design and migration of 3000 VMs to a new bare-metal Kubernetes Infrastructure Platform with improved metrics, alerting, and CI/CD systems.
-- The new platform reduced deployment time from 1.5 hours to 5 minutes, reduced cost by $100k per year, decreased time to recovery of common incidents by 2x and allowed product team ownership of services
-- Created and led Kubernetes 101 and 102 training courses for 100+ engineers
-- Launched the SRE Partner program that helped critical product teams adopt SRE practices
+- The new platform reduced deployment time from 1.5 hours to 5 minutes, reduced cost by $100k per year, decreased time to recovery of incidents by 2x and allowed product team ownership of services.
+- Created and led Kubernetes 101 and 102 training courses for 100+ engineers.
+- Launched the SRE Partner program that helped critical product teams adopt SRE practices.
 
 ### Wink
 ##### Site Reliability Engineer | Flextronics | New York, NY | December 2015 - August 2017 
-- Led the migration of 18 applications from Heroku to AWS EC2-based Kubernetes clusters in a 3-month timeline.
-- Developed an internal product for deploying microservice infrastructure
-- Championed SRE culture/practices across the engineering organization
+
+- Led the migration of 18 applications from Heroku to AWS EC2-based Kubernetes clusters in 3-months.
+- Developed an internal product for deploying microservice infrastructure and championed SRE culture/practices across the engineering organization.
 
 ##### Systems Engineer | Quirky Inc | New York, NY | August 2014 - December 2015 
-- Technical expert for integration of new products into the Wink platform.
-- Designed hardware and processes to refurbish 40,000 company products in 1 month
-- Led vendors in Asia through the final stages of R&D for new smart home products
-- Trained and helped launch a customer service center of 50+ employees
+
+- Designed hardware and processes to refurbish 40,000 company products in 1 month.
+- Led vendors in Asia through the final stages of R&D for new smart home products.
+- Trained and helped launch a customer service center of 50+ employees.
 
 ### Quirky 
 ##### BlackOps Design Engineer | New York, NY | January 2014 - August 2014 
+
 - Prototyping specialist for CEO’s four-member design team
-- Demonstrated products to executives, retail buyers, and investors
 - Constructed visual and functional prototypes for Quirky Aros and Wink Relay
 
 ## Education
