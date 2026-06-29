@@ -8,7 +8,15 @@ I'm an engineering leader specializing in building high-performing, inclusive, a
 
 ### Datadog
 
-##### Senior Engineering Manager | APM Data Observability | New York, NY | October 2023 - Present
+##### Senior Engineering Manager | Transactional Storage | New York, NY | May 2025 - Present
+
+- Lead the Transactional Storage org (5 teams, 10+ engineers), owning Datadog's application data storage platforms: Postgres, UnifiedKV, Search, Data Replication, and Caching.
+- Cut ~$160K/month ($2M/year) in infrastructure cost in a single quarter: migrated Postgres shards across 6 data centers to shared compute in under 4 weeks ($70K/mo), deleted unused staging clusters ($41K/mo), and right-sized production fleets ($50K/mo).
+- Set direction for application data storage: migrated off Cassandra and removed Mongo platform support, consolidating onto our internal KV Database and Postgres PAAS to simplify the portfolio and free team capacity.
+- Reset a stalled rewrite of our in-house KV storage engine and shipped it to GA, delivering a step-change reduction in KV storage cost and scaling (2x load in <10 miuntes, 30% decrease in costs) and improved performance at scale.
+- Matured the Frames data stability platform, adding 20+ use cases and increasing intake availability across Datadog; folded Frames into the Caching org to remove product overlap.
+
+##### Senior Engineering Manager | APM Data Observability | New York, NY | October 2023 - May 2025
 
 - Led engineering for the APM Data Observability suite (14 engineers).
 - Incubated and grew two new products (DSM & DJM) targeting the Data Observability market and Data Engineer persona, acquiring new customer accounts.
