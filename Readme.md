@@ -29,6 +29,11 @@ I'm an engineering leader specializing in building high-performing, inclusive, a
 - Drove internal adoption and product refinement by partnering with Data Platform teams to integrate their use cases.
 
 
+### Built by Experiment (LLC)
+##### Founder | New York, NY | 2025 - Present
+
+- Shipped three AI-first SaaS products solo on Lovable and Supabase: txt.wedding (SMS announcements for couples, ~10 organic signups/month with active users), Green Thumb (weather-smart yard and plant care reminders for homeowners), and Caring Loop (care coordination for family caregivers).
+
 ### Numina 
 ##### Head of Engineering | Brooklyn, NY | March 2022 - September 2023
 
