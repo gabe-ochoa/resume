@@ -8,21 +8,21 @@ I'm an engineering leader specializing in building high-performing, inclusive, a
 
 ### Datadog
 
-##### Senior Engineering Manager | Transactional Storage | New York, NY | May 2025 - Present
+##### Director of Engineering | Transactional Storage | New York, NY | May 2025 - Present
 
-- Lead the Transactional Storage org (5 teams, 10+ engineers), owning Datadog's application data storage platforms: Postgres, UnifiedKV, Search, Data Replication, and Caching.
-- Cut ~$160K/month ($2M/year) in infrastructure cost in a single quarter: migrated Postgres shards across 6 data centers to shared compute in under 4 weeks ($70K/mo), deleted unused staging clusters ($41K/mo), and right-sized production fleets ($50K/mo).
-- Set direction for application data storage: migrated off Cassandra and removed Mongo platform support, consolidating onto our internal KV Database and Postgres PAAS to simplify the portfolio and free team capacity.
-- Reset a stalled rewrite of our in-house KV storage engine and shipped it to GA, delivering a step-change reduction in KV storage cost and scaling (2x load in <10 miuntes, 30% decrease in costs) and improved performance at scale.
-- Matured the Frames data stability platform, adding 20+ use cases and increasing intake availability across Datadog; folded Frames into the Caching org to remove product overlap.
+- Lead the Transactional Storage org (9 teams, 66 engineers), owning Datadog's application data storage platforms: Postgres, an in-house key-value database, Search, Data Replication, and Caching.
+- Cut seven figures a year in infrastructure cost in a single quarter: migrated Postgres shards across 6 data centers to shared compute in under 4 weeks, deleted unused staging clusters, and right-sized production fleets.
+- Set direction for application data storage: retired two legacy database platforms, consolidating onto our internal KV database and Postgres PaaS to simplify the portfolio and free team capacity.
+- Reset a stalled rewrite of our in-house KV storage engine and shipped it to GA, delivering a step-change reduction in KV storage cost and scaling (2x load in <10 minutes, 30% decrease in costs) and improved performance at scale.
+- Matured our internal data stability platform, adding 20+ use cases and increasing data availability across Datadog; folded it into the Caching org to remove product overlap.
 
 ##### Senior Engineering Manager | APM Data Observability | New York, NY | October 2023 - May 2025
 
 - Led engineering for the APM Data Observability suite (14 engineers).
 - Incubated and grew two new products (DSM & DJM) targeting the Data Observability market and Data Engineer persona, acquiring new customer accounts.
-- Scaled Data Streams Monitoring (DSM) from pre-revenue to $5M ARR in 12 months.
-- Launched Data Jobs Monitoring (DJM) from private beta to GA, achieving 20% MoM revenue growth in its first 6 months post-GA.
-- Rapidly prototyped Data Warehouse Monitoring (2 engineers), securing the first customer within 4 weeks.
+- Scaled Data Streams Monitoring (DSM) from pre-revenue to multi-million-dollar ARR in 12 months.
+- Launched Data Jobs Monitoring (DJM) from private beta to GA, achieving double-digit MoM revenue growth in its first 6 months post-GA.
+- Rapidly prototyped a data-warehouse monitoring product (2 engineers), securing the first customer within 4 weeks.
 - Fostered a startup-like environment driving rapid decisions, continuous customer feedback, and proactive deal support for accelerated early growth with Product and Design partners.
 - Doubled the engineering team in 12 months, conducting 180+ interviews and partnering with recruiting for top talent.
 - Expedited feature development and critical fixes for key deals through cross-functional collaboration and prioritization.
@@ -58,7 +58,7 @@ I'm an engineering leader specializing in building high-performing, inclusive, a
 
 - Orchestrated five engineering teams across Compute, Traffic, Storage, Data Center, and Security.
 - Drove a 3x increase in data center usage efficiency, reaching over 60% utilization.
-- Responsible for $5M capital procurement across 2 data centers and 2 public clouds.
+- Responsible for seven-figure capital procurement across 2 data centers and 2 public clouds.
 - Developed Squarespace's Infrastructure Platform empowering product teams to autonomously manage their Kubernetes infrastructure.
 - Collaborated with the Security and Compliance departments to transparently integrate pre-IPO SOX controls into the infrastructure.
 - Primary instructor for Incident Commander training and internal Code Camp instructor.
@@ -73,7 +73,7 @@ I'm an engineering leader specializing in building high-performing, inclusive, a
 ##### Senior Site Reliability Engineer (SRE) / Team Lead | New York, NY | August 2017 - October 2018 
 
 - Led the design and migration of 3000 VMs to a new bare-metal Kubernetes Infrastructure Platform with improved metrics, alerting, and CI/CD systems.
-- The new platform reduced deployment time from 1.5 hours to 5 minutes, reduced cost by $100k per year, decreased time to recovery of incidents by 2x and allowed product team ownership of services.
+- The new platform reduced deployment time from 1.5 hours to 5 minutes, reduced cost by six figures per year, decreased time to recovery of incidents by 2x and allowed product team ownership of services.
 - Created and led Kubernetes 101 and 102 training courses for 100+ engineers.
 - Launched the SRE Partner program that helped critical product teams adopt SRE practices.
 
