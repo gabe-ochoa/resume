@@ -8,9 +8,9 @@ I'm an engineering leader specializing in building high-performing, inclusive, a
 
 ### Datadog
 
-##### Senior Engineering Manager | Transactional Storage | New York, NY | May 2025 - Present
+##### Engineering Director | Transactional Storage | New York, NY | May 2025 - Present
 
-- Lead the Transactional Storage org (5 teams, 10+ engineers), owning Datadog's application data storage platforms: Postgres, an in-house key-value database, Search, Data Replication, and Caching.
+- Lead the Transactional Storage org, owning Datadog's application data storage platforms: Postgres, key-value databases, Search, Data Replication, and Caching. Promoted from Senior Engineering Manager to Engineering Director in September 2026.
 - Cut seven figures a year in infrastructure cost in a single quarter: migrated Postgres shards across 6 data centers to shared compute in under 4 weeks, deleted unused staging clusters, and right-sized production fleets.
 - Set direction for application data storage: retired two legacy database platforms, consolidating onto our internal KV database and Postgres PaaS to simplify the portfolio and free team capacity.
 - Reset a stalled rewrite of our in-house KV storage engine and shipped it to GA, delivering a step-change reduction in KV storage cost and scaling (2x load in <10 minutes, 30% decrease in costs) and improved performance at scale.
